@@ -7,12 +7,6 @@
 
 import Foundation
 
-// Pause to allow the user to see output
-func waitForInput() {
-    print("Press RETURN to contiue...")
-    _ = readLine()
-}
-
 // Create an empty array
 var dataSet: [Int] = []
 
